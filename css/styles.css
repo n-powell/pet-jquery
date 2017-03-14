@@ -1,0 +1,18 @@
+body {
+  background-color: #333333;
+  text-align: center;
+  color: tomato;
+}
+
+h4 {
+  width: 100%;
+  font-size: 48px;
+  font-stretch:  extra-expanded;
+  color: #ffff00;
+  text-transform: uppercase;
+}
+
+p, h2 {color: #eeeeee;
+
+
+}
