@@ -1,18 +1,9 @@
-body {
-  background-color: #333333;
-  text-align: center;
-  color: tomato;
+.dark-b {
+  background-color: black;
+  color: white;
 }
 
-h4 {
-  width: 100%;
-  font-size: 48px;
-  font-stretch:  extra-expanded;
-  color: #ffff00;
-  text-transform: uppercase;
-}
-
-p, h2 {color: #eeeeee;
-
-
+.light-b {
+  background-color: lightgray;
+  color: black;
 }
